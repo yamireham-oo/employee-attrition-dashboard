@@ -25,8 +25,12 @@ Attrition by Tenure Group
 
 Key Insights:
 
-69 employees flagged high risk
-Overtime employees attrite more than non-overtime
-Sales Representatives have by far the highest attrition (39.8%), with Lab Technicians (23.9%) and HR (23.1%) roughly tied for second
-0-1 year tenure employees attrite the most
-Overtime's effect varies by role: Lab Techs jump from 16% → 50%, Managers only 1% → 15%
+1/ 69 employees flagged high risk.
+
+2/ Overtime employees attrite more than non-overtime.
+
+3/ Sales Representatives have by far the highest attrition (39.8%), with Lab Technicians (23.9%) and HR (23.1%) roughly tied for second.
+
+4/ 0-1 year tenure employees attrite the most.
+
+5/ Overtime's effect varies by role: Lab Techs jump from 16% → 50%, Managers only 1% → 15%.
