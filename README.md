@@ -1,9 +1,11 @@
-# employee-attrition-dashboard
+# Employee Attrition Risk Dashboard
+
 Power BI dashboard identifying which employees are most likely to leave, and why.
 
 Tools: Power Query · Power BI · Excel
 
-Cards
+Cards:
+
 Total Employees
 High Risk Employees
 Total Attrition Risk (%)
@@ -11,15 +13,18 @@ Risk Logic
 
 Employee = High Risk if: tenure 0-1 years AND works overtime.
 
-Slicer
+Slicer:
 Job Role (filters Overtime & Attrition Risk charts)
-Charts
+
+Charts:
+
 Employees at Risk
 Overtime vs. Attrition
 Attrition by Job Role
 Attrition by Tenure Group
 
-Key Insights
+Key Insights:
+
 69 employees flagged high risk
 Overtime employees attrite more than non-overtime
 Sales Representatives have by far the highest attrition (39.8%), with Lab Technicians (23.9%) and HR (23.1%) roughly tied for second
